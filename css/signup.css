@@ -1,0 +1,35 @@
+#ToyDrive_form_wrapper h4{
+    font-weight: 600;
+    color: #000;
+}
+
+#ToyDrive_form_wrapper input, #ToyDrive_form_wrapper select, #ToyDrive_form_wrapper button{
+    border-radius:5px;
+}
+
+.toydrive-fieldset{
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 15px;
+}
+
+.td-parent{
+    border: 2px solid green;
+}
+
+.td-child{
+    border: 2px solid navy;
+}
+
+#add-child{
+    padding: 15px;
+    font-size: 14px;
+}
+
+.td-spin{
+    display: inline !important;
+}
+
+#td-form-spinner{
+    display: none;
+}
